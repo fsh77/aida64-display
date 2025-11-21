@@ -1,1 +1,1 @@
-var sensor = {"cpu": "63", "gpu": "40", "ram": 55, "zaman": "19:43:34", "guncelleme": "19:43:36", "ts": 1763743416696};
+var sensor = {"cpu": "64", "gpu": "40", "ram": 55, "zaman": "19:43:44", "guncelleme": "19:43:44", "ts": 1763743424903};
